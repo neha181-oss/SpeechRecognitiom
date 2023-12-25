@@ -1,1 +1,2 @@
-# SpeechRecognitiom
+# SpeechRecognition
+speech recognition using python
